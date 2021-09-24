@@ -130,3 +130,7 @@ dmypy.json
 
 #environment
 face-mesh/
+
+
+#demo
+demo_assets/
