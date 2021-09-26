@@ -131,5 +131,3 @@ dmypy.json
 #environment
 face-mesh/
 
-#mp4
-result_output.mp4
