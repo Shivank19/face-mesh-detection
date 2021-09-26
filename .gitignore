@@ -131,6 +131,5 @@ dmypy.json
 #environment
 face-mesh/
 
-
-#demo
-demo_assets/
+#mp4
+*.mp4
