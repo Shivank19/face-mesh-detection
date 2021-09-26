@@ -71,7 +71,7 @@ if app_mode == 'Home':
     st.markdown("<br/>", unsafe_allow_html=True)
     st.markdown('##### Web app to detect facial landmark features in Images as well as Videos.')
     st.markdown("<hr/>", unsafe_allow_html=True)
-    st.image('demo_assets\demo_image.jpg')
+    st.image('demo_assets//demo_image.jpg')
 
 #========================================================================================================================
 #========================================================================================================================
