@@ -16,8 +16,8 @@ import cv2
 mp_drawing = mp.solutions.drawing_utils
 mp_face_mesh = mp.solutions.face_mesh
 
-DEMO_IMAGE = 'demo_assets\demo_img.jpg'
-DEMO_VID = 'demo_assets\demo_video.mp4'
+DEMO_IMAGE = 'demo_assets//demo_img.jpg'
+DEMO_VID = 'demo_assets//demo_video.mp4'
 
 st.title('Face Mesh Detection')
 
