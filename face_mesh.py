@@ -282,10 +282,10 @@ if app_mode == 'Run on Video':
             frame = img_resize(image = frame, width = 640)
             st_frame.image(frame, channels='BGR', use_column_width = True)
             
-        st.text("Video Processed")
-        output_video = open('result_output.mp4', 'rb')
-        out_bytes = output_video.read()
-        st.video(out_bytes)
+            st.text("Video Processed")
+            output_video = open('result_output.mp4', 'rb')
+            out_bytes = output_video.read()
+            st.video(out_bytes)
 
     vid.release()
     out.release()
