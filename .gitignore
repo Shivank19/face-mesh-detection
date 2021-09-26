@@ -132,4 +132,4 @@ dmypy.json
 face-mesh/
 
 #mp4
-*.mp4
+result_output.mp4
