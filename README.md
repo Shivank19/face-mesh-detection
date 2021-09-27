@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/shivank19/face-mesh-detection/main/face_mesh.py)
 
-Interactive Web-App to detect facial landmarks im Images and Videos utilizing OpenCV and MediaPipe (facial landmark detection). 
+Interactive Web-App to detect facial landmarks in Images and Videos utilizing OpenCV and MediaPipe (facial landmark detection). 
 
 ## Reproducing on Local Machine
 
